@@ -1,0 +1,21 @@
+No. Instancia,Clases real,Clases predicha
+1,A,A
+2,A,E
+3,A,A
+4,A,A
+5,E,I
+6,E,O
+7,E,A
+8,E,A
+9,E,E
+10,I,I
+11,I,I
+12,I,I
+13,I,O
+14,I,A
+15,I,I
+16,I,I
+17,I,A
+18,O,O
+19,O,O
+20,O,E

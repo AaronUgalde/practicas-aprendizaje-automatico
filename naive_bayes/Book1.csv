@@ -1,0 +1,8 @@
+﻿Dataset,Document,Words,Clase
+Training,1,just plain boring,-
+,2,entirely predictible and lacks energy,-
+,3,no surprises and very few laughs,-
+,4,very powerful,+
+,5,the most fun films of the summer,+
+Test,6,predictible with no fun,?
+,7,very fun,?
