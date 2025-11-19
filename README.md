@@ -32,3 +32,6 @@ A continuación se describe el contenido de cada una de las carpetas:
 
 ### 9. [Descenso de Gradiente Interactivo (SGD)](./sgd/)
 - **Descripción:** Un notebook interactivo para aprender sobre el descenso de gradiente, permitiendo al usuario experimentar con la selección de muestras y tasas de aprendizaje en cada paso.
+
+### 10. [Práctica de k-Nearest Neighbors (KNN)](./knn%20practica/)
+- **Descripción:** Implementación y experimentación con el algoritmo de k-Nearest Neighbors en los datasets `iris.csv` y `emails.csv`.
